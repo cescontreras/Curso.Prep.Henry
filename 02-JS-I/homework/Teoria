@@ -1,0 +1,5 @@
+Variables: Es una forma de guardar informacion que puede ser necesaria en el futuro, esta información o este valor puede variar o definirse como constante.
+String: es un tipo de dato, se refiere a un bloque de texto, se le llama string porque es una cadena de caracteres
+Funcion: es una forma de agrupar tareas en una sola. Los valores que vamos a ingresar se les llama argumentos y son la parte variable de la funcion, que va a retornar el resultado de que los argumentos pasen por cada tarea dentro de la funcion
+Declaracion if: Es una forma de verificar si algo es true o false y en funcion de eso avanzar en una u otra direccion
+Valores Booleanos: Es un valor que dice si algo es verdadero o falso, admite solo dos valores, true o false.
