@@ -1,0 +1,4 @@
+for: Es una forma de repetir codigos en bucle de manera simple a traves de ciertas condiciones
+&&: operador logico "y", sirve para combinar expresiones, que pueden ser true o false. Si las dos son true devuelve true, si alguna es false, devuelve false
+||: Operador logico "o", sirve para combinar expresiones, que pueden ser true o false. Si las dos son false, devuelve false, si alguna es true devuelve true
+!: Operador logico "no", sirve para negar, es decir devuelve el valor opuesto, si es true devuelve false y viceversa
