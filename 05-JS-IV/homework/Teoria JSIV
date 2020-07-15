@@ -1,0 +1,5 @@
+Objetos: es una entidad independiente que puede tener diferentes propiedades y valores asignados a las mismas, asi como cualquier objeto de la vida real. Por ej. una mesa que tiene la propiedad color y que su valor es negro.
+Propiedades: Son variables que pertenecen al objeto
+Metodo: un metodo es una propiedad que está definida por una funcion
+Bucle for..in: Es un tipo de bucle que nos permite iterar dentro del objeto en todas sus claves o propiedades.
+Notacion de puntos/notacion de corchetes: Son dos formas de referirse a una propiedad. La notacion de puntos es literal, es decir, que el interprete va a buscar literalmente la propiedad escrita despues del punto. En cambio en la notacion de corchetes el interprete mira primero lo que está dentro del corchete, pudiendo ser esto alguna referencia a la propiedad por ej una variable
