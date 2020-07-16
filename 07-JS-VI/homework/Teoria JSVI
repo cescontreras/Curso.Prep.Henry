@@ -1,0 +1,1 @@
+Funciones Callback: Es una funcion que pasamos como argumento de otra. Como en Javascript las funciones son tomadas como First Class Functions estas se pueden usar como cualquier objeto.
